@@ -6,7 +6,7 @@ Java Software Engineer
 
 Java Spring Developer with a strong knowledge in software development and a focus on continuous learning. Skilled in creating durable and efficient applications using Java and the Spring framework. Proven ability to collaborate within a team and contribute to the development of high-quality code. Eager to apply knowledge and skills to real projects. Open to new opportunities and challenges that allow for professional growth in the dynamic field of software development.
 
-* 🌍 I'm based in Khmelnytskyi, Ukraine
+* 🌍 I'm based in Valencia, Spain
 * ✉️  You can contact me at [valchukvladyslavkhm@gmail.com](mailto:valchukvladyslavkhm@gmail.com)
 * 🚀  I'm currently working on [Flowerista](http://flowerista-frontend.vercel.app/)
 * 🧠  I'm learning strapi.io
